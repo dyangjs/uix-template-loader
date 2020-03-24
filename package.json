@@ -1,0 +1,23 @@
+{
+  "name": "uix-template-loader",
+  "version": "1.0.0",
+  "description": "template view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyangjs/uix-template-loader.git"
+  },
+  "keywords": [
+    "template",
+    "export"
+  ],
+  "author": "damon;jie yang;uixjs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dyangjs/uix-template-loader/issues"
+  },
+  "homepage": "https://github.com/dyangjs/uix-template-loader#readme"
+}
